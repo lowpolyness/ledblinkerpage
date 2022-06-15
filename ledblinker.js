@@ -1,1 +1,4 @@
-alert("butts");
+
+document.addEventListener("load", function(){
+    alert("butts");
+});
